@@ -34,7 +34,7 @@ INSERT INTO
 VALUES (1, 'Laptop', 1),
     (2, 'Smartphone', 2),
     (1, 'Tablet', 3),
-    (4, 'Auriculares', 1);
+    (3, 'Auriculares', 1);
 
 -- INNER JOIN: Escribe una consulta SQL para obtener una lista de todos los clientes que tienen pedidos, mostrando el nombre del cliente y el producto del pedido.
 SELECT clientes.id_cliente, clientes.nombre, pedidos.producto

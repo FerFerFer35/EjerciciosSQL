@@ -57,7 +57,7 @@ VALUES
     (1, 'Laptop', 1),
     (2, 'Smartphone', 2),
     (1, 'Tablet', 3),
-    (4, 'Auriculares', 1);  -- ⚠️ Cliente con ID 4 no existe
+    (3, 'Auriculares', 1);
 ```
 
 ---
